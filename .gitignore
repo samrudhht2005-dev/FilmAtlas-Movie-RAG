@@ -1,0 +1,6 @@
+**/.env
+**/secrets.toml
+**/venv/
+**/.venv/
+**/__pycache__/
+*.pyc
